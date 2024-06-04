@@ -1,13 +1,15 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
         a = Counter(s)
-        res = odd = 0
+        res = 0
+        t = False
         for i in a:
             if a[i] % 2:
-                odd += 1
+                t = True
+                res -= 1
             res += a[i]
-        if odd:
-            return res - odd +1
-        return res - odd
+        if t:
+            return res+1
+        return res
 
         
