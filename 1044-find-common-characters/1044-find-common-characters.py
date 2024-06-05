@@ -5,14 +5,12 @@ class Solution:
             temp = Counter(words[i])
             for j in base:
                 if j in temp:
-                    if base[j] > temp[j]:
+                    if temp[j] < base[j]:
                         base[j] = temp[j]
                 else:
                     base[j] = 0
         res = []
         for i in base:
-            if base[i]:
-                res.extend([ i for j in range(base[i])])
+            for j in range(base[i]):
+                res.append(i)
         return  res
-
-        
