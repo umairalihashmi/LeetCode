@@ -4,25 +4,17 @@ class Solution:
         presum = 0
         res = 0
         for i in nums:
-            # print("at",i)
             presum+=i
-            # print([presum])
-            if abs(presum % k) in track:
+            modd = abs(presum % k) 
+            if modd in track:
+                res+=track[modd]
+                track[modd] += 1
 
-                # print(abs(presum % k),"in",track)
-                res+=track[abs(presum % k)]
-                track[abs(presum % k)] += 1
-
-            elif presum % k == 0:
-                # print(presum % k," is 0")
+            elif modd == 0:
                 res+=1
                 track[0] = 1
             else:
-                # print(abs(presum % k)," not in",track)
-                track[abs(presum % k)] = 1
-        #     print("res at end",res)
-        # print(res)
-        
+                track[modd] = 1
         return res
 
 
