@@ -5,9 +5,8 @@ class Solution:
         for item in arr2:
             res.extend([item for _ in range(keycount[item])])
             del(keycount[item])
-        remaining = sorted(list(keycount.keys()))
+        remaining = sorted(keycount.keys())
         for item in remaining:
             res.extend([item for _ in range(keycount[item])])
-
         return res
         
