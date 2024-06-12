@@ -8,4 +8,4 @@ class Solution:
         for i in range(3):
             for _ in range(c[i]):
                 nums[x] = i
-                x+=1
+                x = x + 1
