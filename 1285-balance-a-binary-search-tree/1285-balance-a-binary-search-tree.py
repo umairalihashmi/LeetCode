@@ -19,7 +19,8 @@ class Solution:
                 return None
             if len(arr) == 1:
                 return TreeNode(arr[0])
-            return TreeNode(arr[len(arr)//2],construct(arr[:(len(arr)//2)]),construct(arr[(len(arr)//2)+1:]))
+            mid = len(arr)//2
+            return TreeNode(arr[mid],construct(arr[:mid]),construct(arr[mid+1:]))
 
         trav(root)
         return construct(arr)
