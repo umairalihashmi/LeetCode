@@ -13,24 +13,13 @@ class Solution:
             trav(root.left)
             arr.append(root.val)
             trav(root.right)
-        trav(root)
-        # print(arr)
-        # print(arr[len(arr)//2])
-    
+
         def construct(arr):
-            print("array:",arr)
             if not arr:
                 return None
             if len(arr) == 1:
                 return TreeNode(arr[0])
-                
-            node = TreeNode(arr[len(arr)//2])
-            # print("new node made:",node)
-            node.left = construct(arr[:(len(arr)//2)])
-            node.right = construct(arr[(len(arr)//2)+1:])
+            return TreeNode(arr[len(arr)//2],construct(arr[:(len(arr)//2)]),construct(arr[(len(arr)//2)+1:]))
 
-            return node
-        
-        # construct(arr) 
-
+        trav(root)
         return construct(arr)
