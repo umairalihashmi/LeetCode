@@ -35,4 +35,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/umairalihashmi/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Sliding Window
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+## Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 <!---LeetCode Topics End-->
