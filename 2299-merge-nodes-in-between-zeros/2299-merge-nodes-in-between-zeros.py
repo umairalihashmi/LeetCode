@@ -10,13 +10,11 @@ class Solution:
         s = 0
         while head:
             if not head.val:
-                dummy.val = s
-                s = 0
+                dummy.val, s = s, 0
                 dummy.next = ListNode(0)
                 last, dummy = dummy, dummy.next
-                # dummy = dummy.next
             else:
-                s+=head.val
+                s += head.val
             head = head.next
         last.next = None
         return start.next
