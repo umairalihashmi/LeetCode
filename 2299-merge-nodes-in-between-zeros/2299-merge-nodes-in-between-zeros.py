@@ -8,14 +8,13 @@ class Solution:
 
         start = dummy = ListNode(0)
         s = 0
-
         while head:
             if not head.val:
                 dummy.val = s
                 s = 0
                 dummy.next = ListNode(0)
-                last = dummy
-                dummy = dummy.next
+                last, dummy = dummy, dummy.next
+                # dummy = dummy.next
             else:
                 s+=head.val
             head = head.next
