@@ -3,7 +3,7 @@ class Solution:
         total = 0
         filled = numBottles
         while numBottles>=numExchange:
-            total += filled
+            total = total + filled
             filled = numBottles//numExchange
             numBottles = filled + numBottles%numExchange
         return total + filled  
