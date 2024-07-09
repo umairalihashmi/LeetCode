@@ -3,7 +3,8 @@ class Solution:
         total = 0
         start = customers[0][0]
         for order in customers:
-            start = max(start,order[0])
+            if start < order[0]:
+                start = order[0]
             start += order[1]
             total = total + start - order[0]
         return total/len(customers)
