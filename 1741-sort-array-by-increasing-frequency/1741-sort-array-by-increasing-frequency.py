@@ -5,7 +5,6 @@ class Solution:
         for item in x:
             partmap[x[item]].extend([item]*x[item])
         res = []
-        keys = sorted(partmap.keys())
-        for k in keys:
+        for k in sorted(partmap.keys()):
             res.extend(sorted(partmap[k],reverse = True))
         return res
