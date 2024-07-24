@@ -3,14 +3,14 @@ class Solution:
         map = defaultdict(list)
         arr = []
         for s in nums:
-            item = s
             ip = ""
-            if item:
+            if s:
+                item = s
                 while item :
                     ip = str(mapping[item%10]) + ip
                     item = item//10
             else:
-                ip = str(mapping[item]) 
+                ip = str(mapping[s]) 
             ip = int(ip)
             arr.append(ip)
             map[ip].append(s)
@@ -20,8 +20,8 @@ class Solution:
         for each in arr:
             if each in done:
                 continue
-            res.extend(map[each])
             done.add(each)
+            res.extend(map[each])
 
         return res
 
