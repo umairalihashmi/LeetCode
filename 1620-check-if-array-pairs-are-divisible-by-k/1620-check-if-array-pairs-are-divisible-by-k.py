@@ -9,7 +9,7 @@ class Solution:
         if 0 in mapp and mapp[0]%2:
             return False
         for item in modarr:
-            if item == 0:
+            if not item:
                 continue
             if k-item not in mapp or mapp[item] != mapp[k-item]:
                 return False
