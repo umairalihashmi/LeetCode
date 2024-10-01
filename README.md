@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/umairalihashmi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/umairalihashmi/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/umairalihashmi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/umairalihashmi/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/umairalihashmi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
