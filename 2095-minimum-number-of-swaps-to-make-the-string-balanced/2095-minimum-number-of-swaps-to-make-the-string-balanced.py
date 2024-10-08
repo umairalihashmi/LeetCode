@@ -1,7 +1,6 @@
 class Solution:
     def minSwaps(self, s: str) -> int:
-        stack = []
-        swap = 0
+        stack ,swap = [], 0
         for bracket in s:
             if bracket == "]":
                 if not stack:
