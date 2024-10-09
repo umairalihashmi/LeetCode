@@ -1,5 +1,6 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
+                
         stk, count = [], 0
         for b in s:
             if b == ")":
