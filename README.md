@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/umairalihashmi/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/umairalihashmi/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -117,10 +118,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umairalihashmi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/umairalihashmi/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umairalihashmi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umairalihashmi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umairalihashmi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/umairalihashmi/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
