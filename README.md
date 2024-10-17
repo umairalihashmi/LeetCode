@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/umairalihashmi/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/umairalihashmi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/umairalihashmi/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/umairalihashmi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/umairalihashmi/LeetCode/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/umairalihashmi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
