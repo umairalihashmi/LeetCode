@@ -7,7 +7,7 @@ class Solution:
                 count = count+1 if our == orr else count
                 return
             trav(arr[1:],our)
-            our = our | arr[0]
+            our |= arr[0]
             trav(arr[1:],our)
         trav(nums,count)
         return count
