@@ -8,12 +8,11 @@ class Solution:
                 if our == orr:
                     count+=1
                 return
-            x = trav(arr[1:],our)
+            trav(arr[1:],our)
             our = our | arr[0]
-            z = trav(arr[1:],our)
+            trav(arr[1:],our)
 
         trav(nums,count)
             
-
         return count
         
