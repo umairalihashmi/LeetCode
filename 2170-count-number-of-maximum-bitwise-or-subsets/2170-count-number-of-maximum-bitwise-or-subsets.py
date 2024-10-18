@@ -2,8 +2,8 @@ class Solution:
     def countMaxOrSubsets(self, nums: List[int]) -> int:
         count, orr = 0,  reduce(lambda x, y: x | y, nums)
         def trav(arr, our):
-            nonlocal count
             if not arr:
+                nonlocal count
                 count = count+1 if our == orr else count
                 return
             trav(arr[1:],our)
