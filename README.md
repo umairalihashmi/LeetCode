@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umairalihashmi/LeetCode/tree/master/0001-two-sum) |
 | [1002-maximum-width-ramp](https://github.com/umairalihashmi/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/umairalihashmi/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/umairalihashmi/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/umairalihashmi/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umairalihashmi/LeetCode/tree/master/0001-two-sum) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/umairalihashmi/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/umairalihashmi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/umairalihashmi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umairalihashmi/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Matrix
+|  |
+| ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/umairalihashmi/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 <!---LeetCode Topics End-->
