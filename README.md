@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/umairalihashmi/LeetCode/tree/master/1304-longest-happy-string) |
 | [2379-maximum-total-importance-of-roads](https://github.com/umairalihashmi/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/umairalihashmi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umairalihashmi/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/umairalihashmi/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/umairalihashmi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/umairalihashmi/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/umairalihashmi/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/umairalihashmi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umairalihashmi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
