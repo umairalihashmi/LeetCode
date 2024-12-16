@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/umairalihashmi/LeetCode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/umairalihashmi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/umairalihashmi/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/umairalihashmi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/umairalihashmi/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
 |  |
@@ -109,12 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2299-merge-nodes-in-between-zeros](https://github.com/umairalihashmi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/umairalihashmi/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
 | [0670-maximum-swap](https://github.com/umairalihashmi/LeetCode/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/umairalihashmi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
