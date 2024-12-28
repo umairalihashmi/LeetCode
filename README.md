@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umairalihashmi/LeetCode/tree/master/0001-two-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/umairalihashmi/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/umairalihashmi/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1002-maximum-width-ramp](https://github.com/umairalihashmi/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/umairalihashmi/LeetCode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/umairalihashmi/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/umairalihashmi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/umairalihashmi/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 <!---LeetCode Topics End-->
