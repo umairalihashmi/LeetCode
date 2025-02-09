@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/umairalihashmi/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/umairalihashmi/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2448-count-number-of-bad-pairs](https://github.com/umairalihashmi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/umairalihashmi/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2685-first-completely-painted-row-or-column](https://github.com/umairalihashmi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/umairalihashmi/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/umairalihashmi/LeetCode/tree/master/0670-maximum-swap) |
 | [1642-water-bottles](https://github.com/umairalihashmi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2448-count-number-of-bad-pairs](https://github.com/umairalihashmi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/umairalihashmi/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/umairalihashmi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2448-count-number-of-bad-pairs](https://github.com/umairalihashmi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/umairalihashmi/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/umairalihashmi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/umairalihashmi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/umairalihashmi/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/umairalihashmi/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/umairalihashmi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/umairalihashmi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String
 |  |
