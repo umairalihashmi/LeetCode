@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/umairalihashmi/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/umairalihashmi/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/umairalihashmi/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/umairalihashmi/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Bit Manipulation
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/umairalihashmi/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/umairalihashmi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2448-count-number-of-bad-pairs](https://github.com/umairalihashmi/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/umairalihashmi/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/umairalihashmi/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
